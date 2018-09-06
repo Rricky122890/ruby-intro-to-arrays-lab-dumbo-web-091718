@@ -30,7 +30,7 @@ end
  
  def last_element_with_array_methods(stew)
   pumpkin = stew.last 
-  return stew
+  return pumpkin
 end
  
  def length_of_array(languages)

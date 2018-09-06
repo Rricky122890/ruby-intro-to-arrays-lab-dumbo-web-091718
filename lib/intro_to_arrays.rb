@@ -1,4 +1,4 @@
 def instantiate_new_array
-arr =  array.new
+arr =  Array.new
 return arr
 end

@@ -28,7 +28,7 @@ end
   pumpkin = stew.last 
   return stew
 end
- def length_of_array(programming_languages)
-  length = programming_languages.count 
+ def length_of_array(languages)
+  length = languages.count 
   return length 
 end
